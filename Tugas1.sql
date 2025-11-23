@@ -1,6 +1,6 @@
 -- Nama : Fatmawati
 -- Nim : D0224024
-
+ 
 -- create database
 CREATE DATABASE kampus;
 USE kampus;
