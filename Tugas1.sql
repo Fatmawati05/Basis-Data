@@ -1,4 +1,4 @@
--- Nama : Fatmawati
+-- Nama : Fatmawati 
 -- Nim : D0224024
 
 -- create database
